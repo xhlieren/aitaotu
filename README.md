@@ -42,3 +42,5 @@ PS：为防止爬取的图片已存在时，python-tk无图片显示而意外崩
 项目声明
 
 此代码仅用于python学习交流使用
+
+![](https://github.com/xhlieren/aitaotu/blob/main/%E7%88%B1%E5%A5%97%E5%9B%BEpython-tk%E6%98%BE%E7%A4%BA%E7%A4%BA%E4%BE%8B.png)<br>
