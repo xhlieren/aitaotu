@@ -28,3 +28,8 @@
 ****
 ## python-tk版示例
 ![](https://github.com/xhlieren/aitaotu/blob/main/%E7%88%B1%E5%A5%97%E5%9B%BEpython-tk%E6%98%BE%E7%A4%BA%E7%A4%BA%E4%BE%8B.png)<br>
+****
+## 更新说明
+* **V1.1**  
+- 更改了python-tk版窗口部分代码的写法，倒置
+- 删除无用代码，添加注释等
